@@ -1,0 +1,27 @@
+\documentclass[10pt]{article}
+
+% moderncv styles
+%\moderncvstyle[roman]{casual}       % optional argument are 'nocolor' (black & white cv) and 'roman' (for roman fonts, instead of sans serif fonts)
+%\moderncvstyle[roman]{classic}       % idem
+
+\usepackage[polish]{babel}
+% character encoding
+%\usepackage[latin2]{inputenc}
+\usepackage[utf8]{inputenc}   % replace by the encoding you are using
+
+\usepackage{pstricks}
+%\usepackage{tabs}
+
+\begin{document}
+%\maketitle
+%\makequote
+
+%\pscirclebox[boxsep=false]{dupa}
+\pscirclebox[fillstyle=solid,%fillcolor=seequote,%linecolor=seequote]%{\color{seequote}\large\bfseries\renewcommand{%\arraystretch}{1.2}\begin{tabular}{c}Text\\In A\\Circle\\Box
+\end{tabular}}
+
+\begin{pspicture}(-3,-1)(3,5)\colaxes[labels=none](0,0)(-3,-1)(3,5)\pstextpath{%\psplot[linestyle=none]{-2}{2}{4 x 2 exp sub}}{%\color{Red} This is the graph of theequation $y=4-xˆ2$ for$-2\le x\le 2$}\end{pspicture}
+
+1 \psset{unit=3}%2 \multido{\nHue=0.01+0.01}{100}{%3 \definecolor{MyColor}{hsb}{\nHue,1,1}%4 \pscircle[linewidth=0.01,linecolor=MyColor]{\nHue}}
+
+\end{document}

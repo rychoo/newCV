@@ -1,0 +1,240 @@
+%%& --translate-file=macce-pl
+%% start of file `jdoe_classic.tex'.
+%% Copyright 2006 Xavier Danaux.
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt]{moderncv}
+
+% moderncv styles
+%\moderncvstyle{casual}       % optional argument are 'nocolor' (black & white cv) and 'roman' (for roman fonts, instead of sans serif fonts)
+%\moderncvstyle[nocolor, roman]{classic}       % idem
+\moderncvstyle[roman]{classic}       % idem
+
+\usepackage[polish]{babel}
+% character encoding
+%\usepackage[latin2]{inputenc}
+\usepackage[utf8]{inputenc}   % replace by the encoding you are using
+
+%%\usepackage{tgchorus}
+\usepackage[QX]{fontenc}
+\usepackage{polski,textcomp}
+%\usepackage{pstricks}
+%\usepackage{tabs}
+
+% personal data (the given example is exhaustive; just give what you want)
+\firstname{Ryszard}
+\familyname{Czekaj}
+%\title{\normalsize birth 3\up{th} February 1970 in Wodzis{\l}aw \'Sl\k{a}ski}
+%\address{26 Marca 156/17\\44-286 Wodzis{\l}aw \'Sl.}  % for classic style
+%%\address{26 Marca 156/17\\44-286 Wodzis{\l}aw \'Sl.}  % for classic style
+\address{26 Marca 156/17 44-286~Wodzis{\l}aw~\'Sl\k{a}ski Poland}  % for casual style
+%\address{Hoofdstraat 286\\2171 BR Sassenheim}  % for classic style
+%\address{12 somestreet, 3456 somecity} % for casual style
+%\phone{+48 601 792466}
+\phone{+48~882~723907}
+%\phone{+48~32~4555988}
+%\phone{(+31) 0031623547655}
+%\phone{(+44) 07517441280}
+%\phone{+48 666 316696}
+%\phone{+31 623 547655}
+\email{rycho@bsdguru.org}
+%\extrainfo{\weblink{http://RYCHoo.freeshell.net/}}
+%\photo[66pt]{0} % also optional, and the optional argument is the height the picture must be resized to
+\photo[52pt]{0} % also optional, and the optional argument is the height the picture must be resized to
+\definecolor{seequote}{rgb}{0.1,0.1,0.3}% for web links
+%\quote{\color{seequote}Strong background as programmer or analyst developing, testing and documenting software. Designed and built of demo.pl network (WAN TCP/IP). Experiences with operating systems, networks and Internet security. Good knowledge of wire and wireless telecommunication, computer and network equipment. Skills in teaching and training.}% also optional
+
+%\quote{\color{seequote}Nauczyciel techniki z wykształcenia, informatyk, programista, złota rączka z zamiłowania. Praktyczna znajomość budowy i administracji sieci komputerowych poparta zdobyciem w 1997 roku koncesji Ministerstwa Łączności na świadczenie usług telekomunikacyjnych nr~274/97/I. Duże doświadczenie w projektowaniu i~rozwijaniu oprogramowania od samodzielnych, specyficznych zastosowań po skomplikowane systemy sieciowe wykorzystujące dostępne biblioteki, SQL i inne rozwiązania w wielu językach programowania. Umiejętność pracy w~grupie w środowisku międzynarodowym. Obsługa elektronarzędzi, maszyn i urządzeń, prace montażowe również urządzeń elektrycznych (lutowanie). Samodzielność, odporność na stres i gotowość do przeprowadzki.}
+
+
+\quote{\color{seequote}{\small Teacher of engineering, computer scientist, programmer, handyman with passion. Practical knowledge of construction and administration of computer networks supported by gaining concession in 1997 from the Ministry of Communications to provide telecommunications services No 274/97/I. Extensive experience in designing and developing software in several programming languages. Ability to work in a team in an international environment. Support for electric tools, machinery and equipment, the assembly works as well as of electrical appliances, soldering. Independence, resistance to stress and ready to relocate.}}
+
+
+%\renewcommand{\listsymbol}{{\fontencoding{U}\fontfamily{ding}\selectfont\tiny\symbol{'102}}} % define another symbol to be used in front of the list items
+
+% the ConTeXt symbol
+\def\ConTeXt{%
+  C%
+  \kern-.0333emo%
+  \kern-.0333emn%
+  \kern-.0667em\TeX%
+  \kern-.0333emt}
+
+% slanted small caps (only with roman family; the sans serif font doesn't exists :-()
+%\usepackage{slantsc}
+%\DeclareFontFamily{T1}{myfont}{}
+%\DeclareFontShape{T1}{myfont}{m}{scsl}{ <-> cork-lmssqbo8}{}
+%\usefont{T1}{myfont}{m}{scsl}Testing the font
+
+% command and color used in this document, independently from moderncv 
+\definecolor{see}{rgb}{0.3,0.6,0.3}% for web links
+\definecolor{ser}{rgb}{0.6,0.6,0.6}% for web links
+\newcommand{\up}[1]{\ensuremath{^\textrm{\scriptsize#1}}}% for text subscripts
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\fontfamily{qhv}\selectfont
+\maketitle
+\makequote
+
+\section{Experience}
+\cventry{07.2009-12.2009}{Workman}{SBA Euro \& Axell}{The Netherlands}{}{Van Happen Containers {\itshape\color{see}(\weblink{http://www.vanhappencontainers.nl/})}, De Rooy {\itshape\color{see}(\weblink{http://www.derooy.com/})}, Opstalan {\itshape\color{see}(\weblink{http://www.opstalan.nl/})}, Kaasmakerij de Jong {\itshape\color{see}(\weblink{http://www.goatcheese.nl/})}}%\newline \hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.sbaeuro.pl/} \& \weblink{http://www.axell.pl/}}}
+\cventry{10.2007-12.2007}{Workman}{World Wide Staffing}{The Netherlands}{\hfill{\color{ser}SoFi: 2679.53.185}}{Elephant Dekker {\itshape\color{see}(\weblink{http://www.dekkerhout.nl/})}}%\newline\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.wwstaffs.com/}}}
+\cventry{06.2006-03.2007}{Workman}{JobServer}{Denmark}{\hfill{\color{ser}CPR: 030270-2683}}{DanSystem \mbox{Industri} {\itshape\color{see}(\weblink{http://www.dansystem-as.dk/})},  \mbox{Frigoscandia} {\itshape\color{see}(\weblink{http://www.frigoscandia.dk/})}, T. Hansen Gruppen {\itshape\color{see}(\weblink{http://www.thansen.dk/})}}% \newline\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.tnspolska.pl/}}}
+\cventry{01.2004-today}{Freelancer}{}{}{}{Cooperation with DD1Studio{\itshape\color{see}\footnotesize{}\hfill\weblink{http://dd1studio.com/}}}
+\cventry{06.2002-12.2003}{IT expert}{AKSEL-NET}{\newline 44-207 Rybnik, ul. Lipowa 17, Poland}{}{Network administrator, IT systems analyst and developer, dispatcher apps programmer for Kenwood and Motorola radios, webmaster.\hfill{\itshape\color{see}\footnotesize{} \weblink{http://www.aksel.com.pl/}}}
+\cventry{09.2000-08.2001}{Teacher}{Zesp\'o{\l} Szk\'o{\l} Liceum Og\'olnokszta{\l}c\k{a}ce}{\newline 44-280 Rydułtowy, ul. Skalna~1, Poland}{}{Teaching in secondary school.\hfill{\itshape\color{see}\footnotesize{} \weblink{http://www.skalna1.edu.pl/}}}
+\cventry{06.1997-02.2000}{Own economic in IT and Internet networking}{”RYCHo \mbox{Ryszard} Czekaj Usługi Informatyczne i Internetowe” }{\newline 40-005 Katowice, Aleja Korfantego 8/145, Poland}{}{Working for DEMO s.c. in Katowice I have created and was directing of internet network section of company: www.demo.pl, teaching in Private Higher School of IT and Economics ''PPSIE NOVUM'', professional courses.\hfill{\itshape\color{see}\footnotesize{} \weblink{http://www.demo.pl/}}}
+\cventry{09.1995-08.1996}{Teacher}{Zesp\'o{\l} Szk\'o{\l} Elektronicznych}{\newline 41-200 Sosnowiec, ul. Jagiello\'nska 13, Poland}{}{Teaching in secondary school.\hfill{\itshape\color{see}\footnotesize{} \weblink{http://elektronik.zse.edu.pl/}}}
+
+%{\color{ser}(REGON: 273553687)}
+%{\color{ser}NIP:~647-149-85-92}
+
+%\break
+%\clearpage
+%\newpage
+
+\section{Driver license}
+\cvlanguage{12.07.1988}{B}{{\color{ser}04255/01/2415}}
+\closesection{}
+
+\vspace{0.5cm}
+
+\section{Computer skills}
+\cvcomputer{OS}{Mac OS X, Unix (\mbox{FreeBSD}, Linux), Novell, Microsoft Windows}{administration}{Apache, Sendmail, Postfix, Samba, Bind}
+\cvcomputer{programming}{Assembler, Basic, C/C++, \mbox{Pascal} (Delphi), PHP}{scripting}{Perl, Shell, sed, awk}
+\cvcomputer{graphic}{Corel Draw, Gimp}{typography}{\LaTeX}
+\cvcomputer{web design}{Web 2.0}{database}{MySQL, PostgreSQL, Firebird }
+
+%HTML, CSS, \textsc{JavaScript}, XML \textsc{Java}, 
+
+%\section{Obsługa komputera}
+%\cvcomputer{SO}{Mac OS X, Unix (\mbox{FreeBSD,} Linux), Novell, Microsoft Windows}{administracja}{Apache, Sendmail, Samba, Bind}
+%\cvcomputer{programowanie}{Assembler, C/C++, Pascal (Delphi), Basic, \textsc{Java}, MapX (ActiveX)}{scripting}{PHP, Perl, Shell}
+%\cvcomputer{grafika}{Corel Draw, Gimp}{typografia}{\LaTeX}
+%\cvcomputer{WWW}{HTML, CSS, \textsc{JavaScript}, XML}{bazy danych}{PostgreSQL, Interbase, MySQL }
+
+\section{Education}
+\cventry{1990--1996}{Master of Science in Information Technology}{\newline University of Silesia in Katowice {\hfill\itshape\color{see}\footnotesize{} \weblink{http://www.us.edu.pl/}}}{\newline Department of Engineering Sciences in Sosnowiec\hfill{\itshape\color{see}\footnotesize{} \weblink{http://www.wiinom.us.edu.pl/}}}{}{}
+%\cventry{1990--1992}{}{The Silesian University of Technology}{Faculty of Mining and Geology in Gliwice}{}{\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.polsl.pl/rg/}.}}
+\cventry{1985--1990}{Secondary school}{,,1\up{st} LO Wodzis{\l}aw \'Sl\k{a}ski''}{\hfill{\itshape\color{see}\footnotesize{} \weblink{http://www.lo1-wodzislaw.net/}}}{}{}
+\cventry{1976--1985}{Elementary school}{\hfill{\itshape\color{see}\footnotesize\weblink{http://sp5wodzislaw.dojka.com/}}}{}{}{}
+
+%\section{Edukacja}
+%\cventry{1992--1996}{Magister Wychowania Technicznego w specjalności Informatyka Nauczycielska}{Uniwersytet Śląski w Katowicach {\itshape\color{see}\footnotesize{}(zobacz \weblink{http://www.us.edu.pl/})}}{Wydział Techniki \mbox{w~Sosnowcu}}{}{\hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://www.wiinom.us.edu.pl/}.}}
+%\cventry{1990--1992}{}{Politechnika Śląska}{Wydział Górnictwa i Geologii w Gliwicach}{}{\hfill{\itshape%\color{see}\footnotesize{}Zobacz \weblink{http://www.polsl.pl/rg/}.}}
+%\cventry{1985--1990}{Szkoła średnia}{ ,,I LO Wodzis{\l}aw \'Sl\k{a}ski''}{}{}{\hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://www.lo1-wodzislaw.net/}.}}
+%\cventry{1976--1985}{Szkoła podstawowa}{}{}{}{\hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://sp5.dojka.com/}.}}
+
+\section{Master thesis}
+\cvitem{title}{\emph{Emulation of printer and plotter in graphic mode (,,Emulacja drukarki i plotera w trybie graficznym'')}\hfill\itshape\color{see}\footnotesize\weblink{http://czekaj.net.pl/mgr/}}
+\cvitem{supervisors}{prof. dr hab. inż. Dariusz Badura and mgr Ireneusz Gościniak}
+\cvitem{description}{\small Study of the complex design of a software emulating printer and plotter with their various languages on the graphic screen made with the first Borland 32--bit compiler for MS Windows in C++. In written part description about contemporary devices and study of object method for analysis and interpreting device language with plain text drivers.}
+%\break
+%\clearpage
+%\newpage
+%\noalign
+%\newpage
+
+%\section{Praca magisterska}
+%\cvitem{tytuł}{\emph{,,Emulacja drukarki i plotera w trybie graficznym''}}
+%\cvitem{promotorzy}{prof. dr hab. inż. Dariusz Badura \& mgr Ireneusz Gościniak}
+%\cvitem{opis}{\small Zaprojektowanie kompletnego oprogramowania emulującego drukarkę i ploter z ich rozmaitymi językami na ekranie graficznym, wykonane z pierwszym 32--bitowym kompilatorem Borlanda dla MS Windows w C++. W części pisemnej pracy opis współczesnych urządzeń oraz studium obiektowej metody analizy i interpretacji języka urządzenia z wykorzystaniem własnych sterowników w plikach tekstowych.}
+%{\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://rychoo.freeshell.net/mgr/}.}}}
+%\vspace{0.5cm}
+
+%Various works for 
+%Carpentry, selecting, sorting and packing beams of timber after machine--tool for 
+%Making of steel constructions, installation of equipment in piggery, the construction of silos for 
+%completing the orders on forklift truck in warehouse of frozen goods 
+%worker of warehouse auto parts, wheel balancing in 
+
+%^\cventry{1991}{Pomocnik elektromontera na powierzchni}{Kopalnia W\k{e}gla Kamiennego ,,MARCEL''}{44-310 Radlin, ul. Korfantego 52}{}{Practice during study.\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.kwsa.pl/centra-wydobywcze.php}.}}
+%^\cventry{1988/1989}{Dor\k{e}czyciel}{P.P.U.P POCZTA POLSKA}{44-300 Wodzis{\l}aw \'Sl\k{a}ski}{}{Earning money for holidays.\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.poczta-polska.pl/}.}}
+%^\cventry{1987}{Pomocnik w warsztacie elektrycznym}{EMAG --- Zak{\l}ad Elektroniki G\'orniczej w Tychach }{Psz\'ow}{}{Ochotniczy Hufiec Pracy.\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.zeg.pl/} and \weblink{http://www.ohp.pl/}.}}
+%^\cventry{1985--1995}{Pomoc w gospodarstwie rolnym dziadk\'ow}{}{wojew\'odztwo \'swi\k{e}tokrzyskie}{}{Prace sezonowe w gospodarstwie rolnym, uprawowo--hodowlanym i sadownictwie.}
+
+%\section{Doświadczenie}
+%\cventry{2009}{Pracownik}{SBA Euro \& Axell}{Holandia}{}{Rozmaite prace dla Van Happen Containers {\itshape\color{see}(\weblink{http://www.vanhappencontainers.nl/})}, De Rooy {\itshape\color{see}(\weblink{http://www.derooy.com/})}, Opstalan {\itshape\color{see}(\weblink{http://www.opstalan.nl/})}, Kaasmakerij de Jong {\itshape\color{see}(\weblink{http://www.goatcheese.nl/})}. \hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://www.sbaeuro.pl/} \& \weblink{http://www.axell.pl/}}.}
+%\cventry{2007}{Pracownik}{World Wide Staffing}{Holandia}{{\color{ser}SoFi: 2679.53.185}}{Stolarnia, selekcja, sortowanie i pakowanie wiązek drewna po obrabiarkach dla Elephant Dekker {\itshape\color{see}(\weblink{http://www.dekkerhout.nl/})}.\hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://www.wwstaffs.com/}.}}
+%\cventry{2006--2007}{Pracownik}{JobServer}{Dania}{{\color{ser}CPR: 030270-2683}}{Składanie konstrukcji stalowych, montaż wyposażenia świniarni, budowa silosów dla DanSystem \mbox{Industri} {\itshape\color{see}(\weblink{http://www.dansystemindustri.dk/})}; kompletowanie zamówień na wózku widłowym w~hurtowni mrożonek  \mbox{Frigoscandia} {\itshape\color{see}(\weblink{http://www.frigoscandia.dk/})}; pracownik magazynu części samochodowych, wyważanie kół w T. Hansen Gruppen {\itshape\color{see}(\weblink{http://www.thansen.dk/})}; kierowca. \hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://www.tnspolska.pl/}.}}
+%\cventry{2002--2003}{Specjalista do spraw systemów informatycznych}{AKSEL-NET}{44-207 Rybnik, ul.~Lipowa 17}{}{Administracja sieci, tworzenie i wdrażanie projektów, programowanie, webmaster.\hfill{\itshape\color{see}\footnotesize{}Zobacz \hfill\weblink{http://www.aksel.com.pl/}.}}
+%\cventry{2000--2001}{Nauczyciel}{Zesp\'o{\l} Szk\'o{\l} Liceum Og\'olnokszta{\l}c\k{a}ce}{44-280 Rydułtowy, ul. Skalna 1}{}{Nauczanie w szkole średniej.\hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://www.zsp1rydultowy.internetdsl.pl/}.}}
+%\cventry{1997--2000}{Własna działalność gospodarcza {\color{ser}(REGON: 273553687)}}{”RYCHo Ryszard Czekaj Usługi Informatyczne i Internetowe” }{40-005 Katowice, Aleja Korfantego 8/145}{{\color{ser}NIP:~647-149-85-92}}{Praca od 1995 dla O\'srodka Szkolenia Informatycznego DEMO s.c. w Katowicach. Instalacja i~administracja sieci internetowej www.demo.pl, nauczanie w prywatnej szkole policealnej ''PPSIE NOVUM'', prowadzenie kursów zawodowych. \hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://www.demo.pl/}.}}
+%\cventry{1995--1996}{Nauczyciel}{Zesp\'o{\l} Szk\'o{\l} Elektronicznych}{41-200 Sosnowiec, ul. Jagiello\'nska 13}{}{Nauczanie w szkole średniej.\hfill{\itshape\color{see}\footnotesize{}Zobacz \weblink{http://elektronik.zse.edu.pl/}.}}
+%^\cventry{1991}{Pomocnik elektromontera na powierzchni}{Kopalnia W\k{e}gla Kamiennego ,,MARCEL''}{44-310 Radlin, ul. Korfantego 52}{}{Practice during study.\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.kwsa.pl/centra-wydobywcze.php}.}}
+%^\cventry{1988/1989}{Dor\k{e}czyciel}{P.P.U.P POCZTA POLSKA}{44-300 Wodzis{\l}aw \'Sl\k{a}ski}{}{Earning money for holidays.\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.poczta-polska.pl/}.}}
+%^\cventry{1987}{Pomocnik w warsztacie elektrycznym}{EMAG --- Zak{\l}ad Elektroniki G\'orniczej w Tychach }{Psz\'ow}{}{Ochotniczy Hufiec Pracy.\hfill{\itshape\color{see}\footnotesize{}See \weblink{http://www.zeg.pl/} and \weblink{http://www.ohp.pl/}.}}
+%^\cventry{1985--1995}{Pomoc w gospodarstwie rolnym dziadk\'ow}{}{wojew\'odztwo \'swi\k{e}tokrzyskie}{}{Prace sezonowe w gospodarstwie rolnym, uprawowo--hodowlanym i sadownictwie.}
+
+
+\section{Languages}
+\cvlanguage{Polish}{Native}{}
+\cvlanguage{English}{Very good}{Not perfect but good enough for  working in Denmark and in the~Netherlands. A~language I'm using reading documentation and surfing Internet.}
+\cvlanguage{Russian}{Good}{Many journeys in Russian speaking countries.}
+\cvlanguage{German}{Elementary}{Taking classes at the time of study.}
+\closesection{}
+%\pagebreak{}
+
+%\section{Języki}
+%\cvlanguage{polski}{ojczysty}{}
+%\cvlanguage{angielski}{bardzo dobry}{Wiele podróży do angielskojęzycznych państw włączając Francję, Austrię, Niemcy, Danię, Holandię. Język którego używam czytając dokumentację i~serfując po Internecie.}
+%\cvlanguage{rosyjski}{dobry}{Podróże do państw rosyjskojęzycznych włączając Czechy, Węgry, Chorwcję.}
+%\cvlanguage{niemiecki}{podstawowy}{Brałem lekcje w czasie studiów.}
+%\closesection{}
+%\pagebreak{}
+
+\section{Interests}
+\cvitem{\small social skills and competences}{\small I'm an Internet fan, as a technique for connecting computers using TCP/IP, and as a sociocultural phenomena connecting people ({\itshape\color{see}\weblink{http://www.facebook.com/ryszard.czekaj}}). You can say about me ''unix guru'' ({\itshape\color{see} \weblink{http://www.bsdguru.org/node/76}  \weblink{http://www.bsdguru.org/node/48}}), I'm using network actively and have its own website where I test my ideas ({\itshape\color{see} \weblink{http://czekaj.net.pl/}}). Work during studies at the radio (part-time): Students' Radio <<ORS Centrum>> in Gliwice, Radio <<Rezonans>> in Sosnowiec, Radio <<Silesia FLASH>> in Gliwice, Poland, as a broadcast leader and sound engineer. I also helped at those times in  organization of the students' ''juwenalia'' as a program manager.}
+%\cvitem{\small social skills and competences}{\small Volunteer of ,,ROB'' in the 2004/05. Helping unemployed people and fight for democracy as ,,Ogólnopolski Ruch Obrony Bezrobotnych''.}
+%\cvitem{\small organisational skills and competences}{\small Work during studies at the radio (part-time): Students' Radio Center <<ORS Centrum>> in Gliwice, Radio <<Rezonans>> in Sosnowiec, Radio <<FLASH>> in Gliwice, Poland, as broadcast leader and sound engineer. I also helped at those times in  organization of the students' ''juwenalia'' as a program manager.}
+\cvitem{\small hobby}{\small Music and even sometimes playing guitar. In spare time tourism.}
+%\cvitem{adventure sports}{\small I like practicing adventure sports like rock climbing and tourism, and have been a boy scout for years, and even chief of 64 DH ''SKAUT'' im. Maksymiliana Cieślika.}
+%\cvitem{travelling}{\small I have been living abroad during my childhood, and love travelling around the world.}
+
+%\section{Zainteresowania}
+%\cvitem{Internet}{\small Jestem fanem Internetu zarówno jako techniki łączenia komputerów używając TCP/IP, jak i jako socjologiczny fenomen łączący ludzi.}
+%\cvitem{\small umiejętności i~kompetencje społeczne}{\small Wolontariusz ,,ROB'' w latach 2004/05. Pomoc bezrobotnym i walka o demokrację jako ,,Ogólnopolski Ruch Obrony Bezrobotnych''.}
+%\cvitem{\small umiejętności i~kompetencje organizacyjne}{\small Praca podczas studiów w radio: ''ORS Centrum'' w Gliwicach, Radio ''Rezonans'' w Sosnowcu, Radio ''FLASH'' w Gliwicach, jako prowadzący i realizator dźwięku.}
+%\cvitem{sporty ekstremalne}{\small Lubię aktywnie spędzać czas uprawiając wspinaczkę górską, przez lata byłem harcerzem, a nawet drużynowym 64 DH ''SKAUT'' im. Maksymiliana Cieślika.}
+%\cvitem{travelling}{\small I have been living abroad during my childhood, and love travelling around the world.}
+
+%\section{Publications}
+%%\cvlistitem{Single item.}
+%%\cvlistitem{Another single item.}
+%\cvitem{articles}{Popular articles about computers for newspaper ,,Dziennik Zachodni'' in 1997 (Gratka: ,,P\'o{\l} \.zartem, p\'o{\l} serio poznajemy \'swiat komputer\'ow''); article for publisher IDEA (,,YES!'') Krak\'ow: ,,internet dla nauczyciela'' in 1997.}
+%\cvitem{web publications}{See \weblink{http://www.bsdguru.org/} and \weblink{http://RYCHoo.freeshell.net/}.}
+%%\cvlistdoubleitem{Another double\dots{}}{\dots{} item.}
+
+%\section{Section with your own content}\closesection
+%Your content here, inside the normal \LaTeX{} environment. You can use any regular \LaTeX{} command, display mathematics
+%\[e =m\,c^2,\]
+%put some table or figure, \dots
+
+%\empty
+%^\section{}
+%^Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w mojej ofercie pracy dla potrzeb niezbędnych\\ do realizacji rekrutacji /zgodnie z Ustawą z dn. 29.08.97.r .o Ochronie Danych Osobowych Dz. Ust. nr 133 poz. 883/.
+%\cvitem{Now}{Back to moderncv layout, without making a new section :-)}
+
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{jdoe_publications}
+%\closesection{}
+%\footnotesize{}
+%\vspace{1.5cm}
+%Wyra\.zam zgod\k{e} na przetwarzanie moich danych osobowych zawartych w niniejszej aplikacji dla potrzeb realizacji procesu rekrutacji (zgodnie z~Ustaw\k{a} z dn.29.08.1997 r. o ochronie danych osobowych, Dz. U. nr 133, poz.883).
+%\vspace{0.5cm}
+%\begin{flushright}
+%Miejscowo\'s\'c, data
+%\end{flushright}
+
+\end{document}
+
+
+%% end of file `jdoe_classic.tex'.
