@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.2)  2 JUN 2022 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.2)  1 FEB 2023 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -213,20 +213,20 @@ File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 ) (cv__en.aux)
 \openout1 = `cv__en.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 (C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -370,7 +370,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip73
 )
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 36.
  (cv__en.out) (cv__en.out)
 \@outlinefile=\write3
 \openout3 = `cv__en.out'.
@@ -437,7 +437,7 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 
-LaTeX Warning: File `europasslogo.eps' not found on input line 36.
+LaTeX Warning: File `europasslogo.eps' not found on input line 42.
 
 Package epstopdf Info: Source file: <europasslogo.eps>
 (epstopdf)             Output file: <europasslogo-eps-converted-to.pdf>
@@ -445,85 +445,62 @@ Package epstopdf Info: Source file: <europasslogo.eps>
 (epstopdf)                    size: 14679 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=europasslogo-eps-con
 verted-to.pdf europasslogo.eps>
-(epstopdf)             \includegraphics on input line 36.
+(epstopdf)             \includegraphics on input line 42.
 Package epstopdf Info: Output file is already uptodate.
 <europasslogo-eps-converted-to.pdf, id=3, 4271.96pt x 2360.82pt>
 File: europasslogo-eps-converted-to.pdf Graphic file (type pdf)
 <use europasslogo-eps-converted-to.pdf>
 Package pdftex.def Info: europasslogo-eps-converted-to.pdf  used on input line 
-36.
+42.
 (pdftex.def)             Requested size: 65.44142pt x 36.13123pt.
-<0.pdf, id=4, 481.8pt x 481.8pt>
-File: 0.pdf Graphic file (type pdf)
-<use 0.pdf>
-Package pdftex.def Info: 0.pdf  used on input line 37.
-(pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
+<0.jpg, id=4, 1606.0pt x 1204.5pt>
+File: 0.jpg Graphic file (type jpg)
+<use 0.jpg>
+Package pdftex.def Info: 0.jpg  used on input line 43.
+(pdftex.def)             Requested size: 85.35826pt x 64.01463pt.
 (C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 37.
+(Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 37.
+(Font)              <5> on input line 43.
 
-(C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uninames.dat
-File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
-)
-(C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-1.def
-File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-)
-
-! Package ucs Error: Unknown Unicode character 307 = U+0133,
-(ucs)                possibly declared in uni-1.def.
-(ucs)                Type H to see if it is available with options.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 www.goatcheese.nl/})}
-                          
-? 
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 5
-0.
-(C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
-File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 []|\T1/phv/c/n/10 Workman in Den-mark: Dan-Sys-tem ([]$http : / / www . dansyst
 emindustri . dk/$[]), Frigoscan-dia
  []
 
 LaTeX Font Info:    Font shape `T1/phv/c/it' in size <12> not available
-(Font)              Font shape `T1/phv/c/sl' tried instead on input line 110.
+(Font)              Font shape `T1/phv/c/sl' tried instead on input line 116.
 LaTeX Font Info:    Font shape `T1/phv/c/it' in size <10> not available
-(Font)              Font shape `T1/phv/c/sl' tried instead on input line 110.
+(Font)              Font shape `T1/phv/c/sl' tried instead on input line 116.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 114.
+(Font)              <8> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 114.
+(Font)              <6> on input line 120.
 LaTeX Font Info:    Font shape `T1/phv/c/it' in size <8> not available
-(Font)              Font shape `T1/phv/c/sl' tried instead on input line 114.
+(Font)              Font shape `T1/phv/c/sl' tried instead on input line 120.
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
-37.
+43.
 (C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 [1
 
 {C:/Users/rycho/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./europasslo
-go-eps-converted-to.pdf> <./0.pdf>] [2] [3] (cv__en.aux)
+go-eps-converted-to.pdf> <./0.jpg>] [2] [3] (cv__en.aux)
 Package rerunfilecheck Info: File `cv__en.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12000 strings out of 478614
- 189882 string characters out of 2843123
- 544288 words of memory out of 3000000
- 29958 multiletter control sequences out of 15000+600000
- 508329 words of font info for 61 fonts, out of 8000000 for 9000
+ 11853 strings out of 478614
+ 187834 string characters out of 2843123
+ 543297 words of memory out of 3000000
+ 29820 multiletter control sequences out of 15000+600000
+ 507722 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,14n,78p,566b,632s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 75i,14n,78p,566b,629s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7
 .pfb><C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
@@ -531,9 +508,9 @@ cm/cmr10.pfb><C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helv
 etic/uhvb8ac.pfb><C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
 helvetic/uhvr8ac.pfb><C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/
 urw/helvetic/uhvro8ac.pfb>
-Output written on cv__en.pdf (3 pages, 439623 bytes).
+Output written on cv__en.pdf (3 pages, 341167 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
