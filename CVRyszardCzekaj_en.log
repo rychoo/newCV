@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.2)  1 FEB 2023 18:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.2)  2 FEB 2023 08:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -905,12 +905,17 @@ Package hyperref Info: Link coloring OFF on input line 88.
 \@outlinefile=\write4
 \openout4 = `CVRyszardCzekaj_en.out'.
 
-\makecvheaddetailsbox=\box68
+\pagenumberwidth=\skip98
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/sl' undefined
-(Font)              using `QX/cmr/m/n' instead on input line 91.
+(Font)              using `QX/cmr/m/n' instead on input line 88.
 
+
+LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
+(Font)              using `QX/cmr/m/sl' instead on input line 88.
+
+\makecvheaddetailsbox=\box68
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 91.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -926,13 +931,13 @@ nput line 91.
 (C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree1.fd)
 \makecvheadpicturebox=\box69
-<0.jpg, id=36, 1606.0pt x 1204.5pt>
+<0.jpg, id=37, 1606.0pt x 1204.5pt>
 File: 0.jpg Graphic file (type jpg)
 <use 0.jpg>
 Package pdftex.def Info: 0.jpg  used on input line 91.
 (pdftex.def)             Requested size: 52.0pt x 38.98221pt.
-\makecvheaddetailswidth=\skip98
-\makecvheadpicturewidth=\skip99
+\makecvheaddetailswidth=\skip99
+\makecvheadpicturewidth=\skip100
 \makecvheadnamebox=\box70
 
 Overfull \hbox (39.2674pt too wide) in paragraph at lines 91--91
@@ -1084,6 +1089,10 @@ LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
 l.99 ...e{} \weblink{http://www.skalna1.edu.pl/}}}
                                                   
 ? 
+
+LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
+(Font)              using `QX/cmr/m/sl' instead on input line 100.
+
 [1
 
 {C:/Users/rycho/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./0.jpg>]
@@ -1194,6 +1203,10 @@ LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
 l.143 ...esize\weblink{http://czekaj.net.pl/mgr/}}
                                                   
 ? 
+
+LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
+(Font)              using `QX/cmr/m/sl' instead on input line 151.
+
 [2]
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
@@ -1277,52 +1290,35 @@ Underfull \hbox (badness 3343) in paragraph at lines 201--201
 ti-vely and
  []
 
+
+LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
+(Font)              using `QX/cmr/m/sl' instead on input line 244.
+
 [3] (CVRyszardCzekaj_en.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `CVRyszardCzekaj_en.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CVRyszardCzekaj_en.out':
-(rerunfilecheck)             Before: AED9A2EF9F0DF92ED12EC41E96ECBD76;312
-(rerunfilecheck)             After:  00A73CE261CCA343E48ABB278734B663;705.
+Package rerunfilecheck Info: File `CVRyszardCzekaj_en.out' has not changed.
+(rerunfilecheck)             Checksum: 00A73CE261CCA343E48ABB278734B663;705.
  ) 
 Here is how much of TeX's memory you used:
- 26854 strings out of 478614
- 521266 string characters out of 2843123
- 822927 words of memory out of 3000000
- 44471 multiletter control sequences out of 15000+600000
+ 26843 strings out of 478614
+ 521189 string characters out of 2843123
+ 822698 words of memory out of 3000000
+ 44463 multiletter control sequences out of 15000+600000
  503883 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,14n,122p,1017b,470s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{section*.13} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.11} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
- replaced by a fixed one
-
-{C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5f
-ree1.enc}{C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawes
-ome5/fa5free2.enc}{C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
-/tex-gyre/q-qx.enc}<C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/rycho/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Us
-ers/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on CVRyszardCzekaj_en.pdf (3 pages, 325512 bytes).
+{C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa
+5free1.enc}{C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaw
+esome5/fa5free2.enc}{C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
+ps/tex-gyre/q-qx.enc}<C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/rycho/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/
+Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb>
+Output written on CVRyszardCzekaj_en.pdf (3 pages, 326218 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
+ 11 named destinations out of 1000 (max. 500000)
  36938 words of extra memory for PDF output out of 42996 (max. 10000000)
 

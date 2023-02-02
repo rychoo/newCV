@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.2)  10 JUL 2022 20:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.2)  1 FEB 2023 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -800,31 +800,31 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip97
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 91.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 91.
+Package hyperref Info: Option `breaklinks' set `true' on input line 98.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 98.
  (CVRyszardCzekaj_pl.aux)
 \openout1 = `CVRyszardCzekaj_pl.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for QX/qtm/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for QX/qtm/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
 
 (C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -851,18 +851,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 91.
-Package microtype Info: Applying patch `item' on input line 91.
-Package microtype Info: Applying patch `toc' on input line 91.
-Package microtype Info: Applying patch `eqnum' on input line 91.
-Package microtype Info: Applying patch `footnote' on input line 91.
+LaTeX Info: Redefining \microtypecontext on input line 98.
+Package microtype Info: Applying patch `item' on input line 98.
+Package microtype Info: Applying patch `toc' on input line 98.
+Package microtype Info: Applying patch `eqnum' on input line 98.
+Package microtype Info: Applying patch `footnote' on input line 98.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 91.
+LaTeX Info: Redefining \showhyphens on input line 98.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -900,397 +900,405 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `QX' in inheritance list
 (microtype)                `microtype.cfg/343(protrusion)'.
 
-Package hyperref Info: Link coloring OFF on input line 91.
+Package hyperref Info: Link coloring OFF on input line 98.
 (CVRyszardCzekaj_pl.out) (CVRyszardCzekaj_pl.out)
 \@outlinefile=\write4
 \openout4 = `CVRyszardCzekaj_pl.out'.
 
-\makecvheaddetailsbox=\box68
+\pagenumberwidth=\skip98
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/sl' undefined
-(Font)              using `QX/cmr/m/n' instead on input line 112.
+(Font)              using `QX/cmr/m/n' instead on input line 98.
 
+
+LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
+(Font)              using `QX/cmr/m/sl' instead on input line 98.
+
+\makecvheaddetailsbox=\box68
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 112.
+(Font)              <7> on input line 119.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 112.
+(Font)              <5> on input line 119.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 112.
+nput line 119.
 
 (C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 112.
+nput line 119.
 
 (C:\Users\rycho\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree1.fd)
 \makecvheadpicturebox=\box69
-<0.jpg, id=8, 1606.0pt x 1204.5pt>
+<0.jpg, id=37, 1606.0pt x 1204.5pt>
 File: 0.jpg Graphic file (type jpg)
 <use 0.jpg>
-Package pdftex.def Info: 0.jpg  used on input line 112.
+Package pdftex.def Info: 0.jpg  used on input line 119.
 (pdftex.def)             Requested size: 52.0pt x 38.98221pt.
-\makecvheaddetailswidth=\skip98
-\makecvheadpicturewidth=\skip99
+\makecvheaddetailswidth=\skip99
+\makecvheadpicturewidth=\skip100
 \makecvheadnamebox=\box70
 
-Overfull \hbox (9.2374pt too wide) in paragraph at lines 112--112
+Overfull \hbox (9.2374pt too wide) in paragraph at lines 119--119
 [][]\QX/cmr/m/n/34 (-20) Ryszard 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 112.
+(Font)              <10.95> on input line 119.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 112.
+(Font)              <8> on input line 119.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 112.
+(Font)              <6> on input line 119.
 ! Undefined control sequence.
 <recently read> \makequote 
                            
-l.112 \makequote
+l.119 \makequote
                 
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/bx/n' undefined
-(Font)              using `QX/cmr/m/n' instead on input line 123.
+(Font)              using `QX/cmr/m/n' instead on input line 130.
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 123.
+(Font)              using `QX/cmr/m/sl' instead on input line 130.
 
 ! Undefined control sequence.
 <argument> ... PHP{\itshape \color {see}(\weblink 
                                                   {http://dd1studio.com/})}\...
-l.123 ...r{see}(\weblink{http://dd1studio.com/})}}
+l.130 ...r{see}(\weblink{http://dd1studio.com/})}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 124.
+(Font)              using `QX/cmr/m/sl' instead on input line 131.
 
 ! Undefined control sequence.
 <argument> ...ers {\itshape \color {see}(\weblink 
                                                   {http://www.vanhappenconta...
-l.124 ...e}(\weblink{http://www.goatcheese.nl/})}}
+l.131 ...e}(\weblink{http://www.goatcheese.nl/})}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 124.
+(Font)              using `QX/cmr/m/sl' instead on input line 131.
 
 ! Undefined control sequence.
 <argument> ...ooy {\itshape \color {see}(\weblink 
                                                   {http://www.derooy.com/})}...
-l.124 ...e}(\weblink{http://www.goatcheese.nl/})}}
+l.131 ...e}(\weblink{http://www.goatcheese.nl/})}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 124.
+(Font)              using `QX/cmr/m/sl' instead on input line 131.
 
 ! Undefined control sequence.
 <argument> ...lan {\itshape \color {see}(\weblink 
                                                   {http://www.opstalan.nl/})...
-l.124 ...e}(\weblink{http://www.goatcheese.nl/})}}
+l.131 ...e}(\weblink{http://www.goatcheese.nl/})}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 124.
+(Font)              using `QX/cmr/m/sl' instead on input line 131.
 
 ! Undefined control sequence.
 <argument> ...ong {\itshape \color {see}(\weblink 
                                                   {http://www.goatcheese.nl/...
-l.124 ...e}(\weblink{http://www.goatcheese.nl/})}}
+l.131 ...e}(\weblink{http://www.goatcheese.nl/})}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 125.
+(Font)              using `QX/cmr/m/sl' instead on input line 132.
 
 ! Undefined control sequence.
 <argument> ...ker {\itshape \color {see}(\weblink 
                                                   {http://www.dekkerhout.nl/...
-l.125 ...e}(\weblink{http://www.dekkerhout.nl/})}}
+l.132 ...e}(\weblink{http://www.dekkerhout.nl/})}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 126.
+(Font)              using `QX/cmr/m/sl' instead on input line 133.
 
 ! Undefined control sequence.
 <argument> ...ri} {\itshape \color {see}(\weblink 
                                                   {http://www.dansystemindus...
-l.126 ...{see}(\weblink{http://www.thansen.dk/})}}
+l.133 ...{see}(\weblink{http://www.thansen.dk/})}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 126.
+(Font)              using `QX/cmr/m/sl' instead on input line 133.
 
 ! Undefined control sequence.
 <argument> ...ia} {\itshape \color {see}(\weblink 
                                                   {http://www.frigoscandia.d...
-l.126 ...{see}(\weblink{http://www.thansen.dk/})}}
+l.133 ...{see}(\weblink{http://www.thansen.dk/})}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 126.
+(Font)              using `QX/cmr/m/sl' instead on input line 133.
 
 ! Undefined control sequence.
 <argument> ...pen {\itshape \color {see}(\weblink 
                                                   {http://www.thansen.dk/})}...
-l.126 ...{see}(\weblink{http://www.thansen.dk/})}}
+l.133 ...{see}(\weblink{http://www.thansen.dk/})}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []\QX/cmr/m/sl/10 (+20) DanSystem [] [](http://www.dansystemindustri.dk/)[],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 [] []\QX/cmr/m/sl/10 (+20) (http://www.frigoscandia.dk/)[], T. Han-sen Grup-pen
 
  []
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 128.
+(Font)              using `QX/cmr/m/sl' instead on input line 135.
 
 ! Undefined control sequence.
 <argument> ...see}\footnotesize {}\hfill \weblink 
                                                   {http://www.aksel.com.pl/}...
-l.128 ...hfill\weblink{http://www.aksel.com.pl/}}}
+l.135 ...hfill\weblink{http://www.aksel.com.pl/}}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 129.
+(Font)              using `QX/cmr/m/sl' instead on input line 136.
 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://www.zsp1rydultowy....
-l.129 ...tp://www.zsp1rydultowy.internetdsl.pl/}}}
+l.136 ...tp://www.zsp1rydultowy.internetdsl.pl/}}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 130.
+(Font)              using `QX/cmr/m/sl' instead on input line 137.
 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://www.demo.pl/}}\end...
-l.130 ...notesize{}\weblink{http://www.demo.pl/}}}
+l.137 ...notesize{}\weblink{http://www.demo.pl/}}}
                                                   
 ? 
+
+LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
+(Font)              using `QX/cmr/m/sl' instead on input line 138.
+
 [1
 
 {C:/Users/rycho/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./0.jpg>]
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 131.
+(Font)              using `QX/cmr/m/sl' instead on input line 138.
 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://elektronik.zse.edu...
-l.131 ...\weblink{http://elektronik.zse.edu.pl/}}}
+l.138 ...\weblink{http://elektronik.zse.edu.pl/}}}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 139.
+(Font)              using `QX/cmr/m/sl' instead on input line 146.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
 []\QX/cmr/m/sl/10 (+20) Mac OS X, Unix
  []
 
 
-Overfull \hbox (3.7991pt too wide) in paragraph at lines 146--146
+Overfull \hbox (3.7991pt too wide) in paragraph at lines 153--153
  []|[]\QX/cmr/m/sl/10.95 (-20) programowanie[]|
  []
 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://www.us.edu.pl/}}
-l.157 ...blink{http://www.wiinom.us.edu.pl/}}}{}{}
+l.164 ...blink{http://www.wiinom.us.edu.pl/}}}{}{}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 157.
+(Font)              using `QX/cmr/m/sl' instead on input line 164.
 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://www.us.edu.pl/}}}
-l.157 ...blink{http://www.wiinom.us.edu.pl/}}}{}{}
+l.164 ...blink{http://www.wiinom.us.edu.pl/}}}{}{}
                                                   
 ? 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://www.wiinom.us.edu....
-l.157 ...blink{http://www.wiinom.us.edu.pl/}}}{}{}
+l.164 ...blink{http://www.wiinom.us.edu.pl/}}}{}{}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 157.
+(Font)              using `QX/cmr/m/sl' instead on input line 164.
 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://www.wiinom.us.edu....
-l.157 ...blink{http://www.wiinom.us.edu.pl/}}}{}{}
+l.164 ...blink{http://www.wiinom.us.edu.pl/}}}{}{}
                                                   
 ? 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://lo1-wodzislaw.pl/}}
-l.159 ...}\weblink{http://lo1-wodzislaw.pl/}}}{}{}
+l.166 ...}\weblink{http://lo1-wodzislaw.pl/}}}{}{}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 159.
+(Font)              using `QX/cmr/m/sl' instead on input line 166.
 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://lo1-wodzislaw.pl/}}
-l.159 ...}\weblink{http://lo1-wodzislaw.pl/}}}{}{}
+l.166 ...}\weblink{http://lo1-wodzislaw.pl/}}}{}{}
                                                   
 ? 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://zsp7wodzislawslask...
-l.160 ...dzislawslaski.smarthost.pl/zsp7/}}}{}{}{}
+l.167 ...dzislawslaski.smarthost.pl/zsp7/}}}{}{}{}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 160.
+(Font)              using `QX/cmr/m/sl' instead on input line 167.
 
 ! Undefined control sequence.
 <argument> ...color {see}\footnotesize {}\weblink 
                                                   {http://zsp7wodzislawslask...
-l.160 ...dzislawslaski.smarthost.pl/zsp7/}}}{}{}{}
+l.167 ...dzislawslaski.smarthost.pl/zsp7/}}}{}{}{}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 168.
+(Font)              using `QX/cmr/m/sl' instead on input line 175.
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 168.
+(Font)              using `QX/cmr/m/sl' instead on input line 175.
 
 ! Undefined control sequence.
 <argument> ... \color {see}\footnotesize \weblink 
                                                   {http://rychoo.theunixplac...
-l.168 ...ink{http://rychoo.theunixplace.com/mgr/}}
+l.175 ...ink{http://rychoo.theunixplace.com/mgr/}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\QX/cmr/m/sl/10.95 (+20) ,,Emulacja dru-karki i plo-tera w try-bie gra-ficz-
 nym''
  []
 
+
+LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
+(Font)              using `QX/cmr/m/sl' instead on input line 178.
+
 [2]
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 197.
+(Font)              using `QX/cmr/m/sl' instead on input line 204.
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 198.
+(Font)              using `QX/cmr/m/sl' instead on input line 205.
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 199.
+(Font)              using `QX/cmr/m/sl' instead on input line 206.
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 200.
+(Font)              using `QX/cmr/m/sl' instead on input line 207.
 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 213.
+(Font)              using `QX/cmr/m/sl' instead on input line 220.
 
 ! Undefined control sequence.
 <argument> ...dzi ({\itshape \color {see}\weblink 
                                                   {http://www.facebook.com/r...
-l.213 ...lii studenckich jako kierownik programu.}
+l.220 ...lii studenckich jako kierownik programu.}
                                                   
 ? 
 
 LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
-(Font)              using `QX/cmr/m/sl' instead on input line 213.
+(Font)              using `QX/cmr/m/sl' instead on input line 220.
 
 ! Undefined control sequence.
 <argument> ...Å‚y ({\itshape \color {see}\weblink 
                                                   {http://RYCHoo.TheUnixPlac...
-l.213 ...lii studenckich jako kierownik programu.}
+l.220 ...lii studenckich jako kierownik programu.}
                                                   
 ? 
 
-Underfull \hbox (badness 4739) in paragraph at lines 213--213
+Underfull \hbox (badness 4739) in paragraph at lines 220--220
 []|\QX/cmr/m/sl/10 (+20) Jestem fa-nem In-ter-netu za-równo jako tech-niki ª¡-c
 ze-nia kom-pu-
  []
 
 
-Underfull \hbox (badness 6641) in paragraph at lines 213--213
+Underfull \hbox (badness 6641) in paragraph at lines 220--220
 \QX/cmr/m/sl/10 (+20) te-rów u»y-wa-j¡c TCP/IP, jak i jako so-cjo-lo-giczny fe-
 no-men ª¡-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 \QX/cmr/m/sl/10 (+20) cz¡cy lu-dzi ([]http://www.facebook.com/ryszard.czekaj[])
 . Mo»na o
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 213--213
+Underfull \hbox (badness 1436) in paragraph at lines 220--220
 \QX/cmr/m/sl/10 (+20) mnie po-wie-dzie¢ ,,unix guru'', ak-tyw-nie ko-rzy-stam z
  sieci, po-sia-
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 213--213
+Underfull \hbox (badness 3343) in paragraph at lines 220--220
 \QX/cmr/m/sl/10 (+20) dam wªa-sn¡ stron¦ in-ter-ne-tow¡ na któ-rej te-stuj¦ swo
 je po-my-sªy
  []
 
 
-Underfull \hbox (badness 3503) in paragraph at lines 213--213
+Underfull \hbox (badness 3503) in paragraph at lines 220--220
 \QX/cmr/m/sl/10 (+20) Po-ma-ga-ªem rów-nie» w tam-tych cza-sach w or-ga-ni-za-c
 ji ju-we-na-lii
  []
+
+
+LaTeX Font Warning: Font shape `QX/cmr/m/it' undefined
+(Font)              using `QX/cmr/m/sl' instead on input line 257.
 
 [3] (CVRyszardCzekaj_pl.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `CVRyszardCzekaj_pl.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CVRyszardCzekaj_pl.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  AAF775949E57201A39E21AB8D0DB9CC7;754.
+Package rerunfilecheck Info: File `CVRyszardCzekaj_pl.out' has not changed.
+(rerunfilecheck)             Checksum: AAF775949E57201A39E21AB8D0DB9CC7;754.
  ) 
 Here is how much of TeX's memory you used:
- 26819 strings out of 478614
- 520963 string characters out of 2843123
- 822837 words of memory out of 3000000
- 44454 multiletter control sequences out of 15000+600000
+ 26827 strings out of 478614
+ 521049 string characters out of 2843123
+ 823857 words of memory out of 3000000
+ 44462 multiletter control sequences out of 15000+600000
  503019 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,14n,122p,1017b,470s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1301,9 +1309,9 @@ ps/tex-gyre/q-qx.enc}<C:/Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/rycho/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/
 Users/rycho/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on CVRyszardCzekaj_pl.pdf (3 pages, 324262 bytes).
+Output written on CVRyszardCzekaj_pl.pdf (3 pages, 327000 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
- 36882 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 36938 words of extra memory for PDF output out of 42996 (max. 10000000)
 
